@@ -28,9 +28,12 @@ DOI NUMARASI:https://doi.org/10.5281/zenodo.19428077
 - **SYBEL-KRONOS** – Hücreleri programlanabilir biyolojik bilgisayarlara dönüştürür.  
   AND, OR, NAND, XOR, zaman gecikmeli kapılar, flip-flop bellek, 256 biyobelirteç 19219751
 DOI NUMARASI:https://doi.org/10.5281/zenodo.19428317
+
 -**MEE-URT** – Bitkilerin verimini artırır, kuraklık ve ışık stresini yönetir, enerji tahliyesini optimize eder.  
   Vasküler hedefleme ile sadece istenen bitki dokularına müdahale eder.
-DOI NUMARASI:https://doi.org/10.5281/zenodo.19353651
+DOI NUMARASI:
+https://doi.org/10.5281/zenodo.19353651
+
 - **Prometheus** – NMN + Torin 1 ile mitokondriyel enerji metabolizmasını düzeltir, TFEB aracılı otofaji-lizozom yolunu aktive eder, lizozomal asidifikasyonu sağlar. Alzheimer ve diğer nörodejeneratif hastalıklar için.DOI NUMARASI:https://doi.org/10.5281/zenodo.19218687
 
 - **TMÇNPROS** – Kanser hücresini AND kapısı (p16 + 8-OHdG + p53 mutasyonu) ile tespit eder, NOT kapısı ile BCL-2'yi tersler, dinamik eşik fonksiyonu ile geri dönülemez apoptozu başlatır. 4 aylık tarama döngüsü ile nüksü önler.DOI NUMARASI:https://doi.org/10.5281/zenodo.19219751
