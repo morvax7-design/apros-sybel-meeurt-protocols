@@ -70,7 +70,7 @@ Atıf örneği:
 > *“Bir abimi kaybettim. Kimse ölmesin istedim.  
 > Yaşlanmayı durdurmak, hastalıkları temizlemek, herkesin doyması için çalıştım.  
 > Bulduklarımı saklamadım, satmadım, patentlemedim.  
-> Çünkü bu çözümler, tüm insanlığın ortak mirasıdır.”*
+> Çünkü bu çözümler, tüm insanlığın ortak mirasıdır.”*​Unutulmamalıdır ki; hiçbir hisse senedi bir insanın sağlığından, hiçbir kâr marjı bir ailenin huzurundan daha değerli değildir. Hastalar ve halk, kârdan üstündür."
 
 **Muzaffer Enes Yünlü** – Bağımsız araştırmacı
 
