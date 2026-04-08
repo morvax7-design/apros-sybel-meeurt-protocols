@@ -72,7 +72,8 @@ Atıf örneği:
 
 ## 🔗 Bağlantılar
 
-- Zenodo APROS: [10.5281/zenodo.19353651](https://doi.org/10.5281/zenodo.19353651)
+- Zenodo APROS: [10.5281/zenodo.19353651]
+(https://doi.org/10.5281/zenodo.19353651)
 - Zenodo SYBEL-KRONOS: [10.5281/zenodo.19428077](https://doi.org/10.5281/zenodo.19428077)
 - Zenodo MEE-URT: [10.5281/zenodo.19428317](https://doi.org/10.5281/zenodo.19428317)
 
