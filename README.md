@@ -29,7 +29,7 @@ DOI NUMARASI:https://doi.org/10.5281/zenodo.19428077
   AND, OR, NAND, XOR, zaman gecikmeli kapılar, flip-flop bellek, 256 biyobelirteç 19219751
 DOI NUMARASI:https://doi.org/10.5281/zenodo.19428317
 
--**MEE-URT** – Bitkilerin verimini artırır, kuraklık ve ışık stresini yönetir, enerji tahliyesini optimize eder.  
+ -**MEE-URT** – Bitkilerin verimini artırır,      kuraklık ve ışık stresini yönetir, enerji tahliyesini optimize eder.  
   Vasküler hedefleme ile sadece istenen bitki dokularına müdahale eder.
 DOI NUMARASI:
 https://doi.org/10.5281/zenodo.19353651
