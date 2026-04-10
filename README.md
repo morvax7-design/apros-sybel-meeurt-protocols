@@ -79,7 +79,7 @@ Atıf örneği:
 ## 🔗 Bağlantılar
 
 - Zenodo APROS: 
-(https://doi.org/10.5281/zenodo.19353651)
+(https:/10.5281/zenodo.19353651)
 - Zenodo SYBEL-KRONOS: [10.5281/zenodo.19428077](https://doi.org/10.5281/zenodo.19428077)
 - Zenodo MEE-URT: [10.5281/zenodo.19428317](https://doi.org/10.5281/zenodo.19428317)
 - Zenodo Prometheus: [10.5281/zenodo.19218687](https://doi.org/10.5281/zenodo.19218687)
