@@ -84,10 +84,7 @@ https://doi.org/10.5281/zenodo.19428077
 - Zenodo MEE-URT: [10.5281/zenodo.19428317](https://doi.org/10.5281/zenodo.19428317)
 - Zenodo Prometheus: [10.5281/zenodo.19218687](https://doi.org/10.5281/zenodo.19218687)
 - Zenodo TMÇNPROS: [10.5281/zenodo.19219751](https://doi.org/10.5281/zenodo.19219751)
-Vanguard state street ve black rock tarafından fonlanan hisselerine tabi şirketlerin izinsiz
-kullanması yasaktır izin alınması gerekir 
-aksi takdirde dava ve mahkeme sürecine girilir
-
+BlackRock, Vanguard, State Street veya bu fonların hissesine sahip olduğu hiçbir şirket, ayrıca yazılı izin almadan bu protokolleri ticari kullanım amacıyla uygulayamaz veya kullandıramaz.
 ---
 
 *Yayın tarihi: 31 Mart – 5 Nisan 2026*  
