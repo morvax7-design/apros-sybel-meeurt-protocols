@@ -3,7 +3,7 @@
 **İnsanlık için açık kaynak hücresel işletim sistemi protokolleri**
 
 Bu protokoller, yaşlanmayı durdurmak, hastalıkları temizlemek, kanseri infaz etmek, nörodejenerasyonu onarmak, gıda ve enerji krizini çözmek için geliştirilmiştir.  
-Hepsi **kamu malıdır**, patentlenemez ve tüm insanlığın kullanımına açıktır.
+Hepsi  patentlenemez ve tüm insanlığın kullanımına açıktır.
 
 ---
 
@@ -91,4 +91,4 @@ aksi takdirde dava ve mahkeme sürecine girilir
 ---
 
 *Yayın tarihi: 31 Mart – 5 Nisan 2026*  
-*Kamu malı · Patentlenemez · Açık kaynak · İnsanlık için*
+*Patentlenemez · Açık kaynak · İnsanlık için*
