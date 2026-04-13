@@ -1,5 +1,5 @@
 # APROS-V8.1 · SYBEL-KRONOS · MEE-URT-V2 · PROMETHEUS · TMÇNPROS
-
+https://t.me/+V2OXeefXZUsyMGNk
 **İnsanlık için açık kaynak hücresel işletim sistemi protokolleri**
 
 Bu protokoller, yaşlanmayı durdurmak, hastalıkları temizlemek, kanseri infaz etmek, nörodejenerasyonu onarmak, gıda ve enerji krizini çözmek için geliştirilmiştir.  
