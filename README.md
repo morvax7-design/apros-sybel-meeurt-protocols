@@ -77,8 +77,6 @@ Atıf örneği:
 ---
 
 
-BlackRock, Vanguard, State Street veya bu fonların hissesine sahip olduğu hiçbir şirket, ayrıca yazılı izin almadan bu protokolleri ticari kullanım amacıyla uygulayamaz veya kullandıramaz.
----
 
 *Yayın tarihi: 31 Mart – 5 Nisan 2026*  
 *Patentlenemez · Açık kaynak · İnsanlık için*
