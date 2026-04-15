@@ -11,10 +11,10 @@ Hepsi  patentlenemez ve tüm insanlığın kullanımına açıktır.
 
 | Protokol | Açıklama | DOI |
 |----------|----------|-----|
-| **APROS-V8.1** | İnsan hücresi için epigenetik reset, senolitik temizlik, DNA onarımı, immünomodülasyon | [10.5281/zenodo.19353651](https://doi.org/10.5281/zenodo.19353651) |
-| **SYBEL-KRONOS** | Hücrelere mantık kapıları, bellek, flip-flop devreleri kazandıran sentetik biyoloji işletim sistemi | [10.5281/zenodo.19428077](https://doi.org/10.5281/zenodo.19428077) |
-| **MEE-URT-V2** | Bitkisel üretim için vasküler hedefleme, termal adaptasyon, ROS yönetimi, enerji tahliyesi | [10.5281/zenodo.19428317](https://doi.org/10.5281/zenodo.19428317) | 
-|  **TMÇNPROS** | AND/NOT kapılı kanser infaz modülü – LNP hedeflemeli, kill-switch'li, dinamik apoptoz | [10.5281/zenodo.19219751](https://doi.org/10.5281/zenodo.19219751) |
+| **APROS-V8.1** | İnsan hücresi için epigenetik reset, senolitik temizlik, DNA onarımı, immünomodülasyon | 
+| **SYBEL-KRONOS** | Hücrelere mantık kapıları, bellek, flip-flop devreleri kazandıran sentetik biyoloji işletim sistemi | 
+| **MEE-URT-V2** | Bitkisel üretim için vasküler hedefleme, termal adaptasyon, ROS yönetimi, enerji tahliyesi | 
+|  **TMÇNPROS** | AND/NOT kapılı kanser infaz modülü – LNP hedeflemeli, kill-switch'li, dinamik apoptoz |  |
 
 ---
 
@@ -23,22 +23,22 @@ Hepsi  patentlenemez ve tüm insanlığın kullanımına açıktır.
 - **APROS** – Hücreleri gençleştirir, yaşlanan hücreleri temizler, DNA’yı onarır, bağışıklığı düzenler.  
   Kombinatoryal hedefleme (273 adres) ile sadece istenen dokulara müdahale eder.  
   Kill-Switch, degron, miRNA, CRISPRi ile dört katmanlı güvenlik.
-DOI NUMARASI:https://doi.org/10.5281/zenodo.19428077
+DOI NUMARASI:
 
 - **SYBEL-KRONOS** – Hücreleri programlanabilir biyolojik bilgisayarlara dönüştürür.  
   AND, OR, NAND, XOR, zaman gecikmeli kapılar, flip-flop bellek, 256 biyobelirteç 19219751
-DOI NUMARASI:https://doi.org/10.5281/zenodo.19428317
+DOI NUMARASI:
 
  -**MEE-URT** – Bitkilerin verimini artırır,      kuraklık ve ışık stresini yönetir, enerji tahliyesini optimize eder.  
   Vasküler hedefleme ile sadece istenen bitki dokularına müdahale eder.
 DOI NUMARASI:
-https://doi.org/10.5281/zenodo.19353651
+
 
 - **Prometheus** – NMN + Torin 1 ile mitokondriyel enerji metabolizmasını düzeltir, TFEB aracılı otofaji-lizozom yolunu aktive eder, lizozomal asidifikasyonu sağlar. Alzheimer ve diğer nörodejeneratif hastalıklar için.
 DOI NUMARASI:
-https://doi.org/10.5281/zenodo.19218687
 
-- **TMÇNPROS** – Kanser hücresini AND kapısı (p16 + 8-OHdG + p53 mutasyonu) ile tespit eder, NOT kapısı ile BCL-2'yi tersler, dinamik eşik fonksiyonu ile geri dönülemez apoptozu başlatır. 4 aylık tarama döngüsü ile nüksü önler.DOI NUMARASI: https://doi.org/10.5281/zenodo.19219751
+
+- **TMÇNPROS** – Kanser hücresini AND kapısı (p16 + 8-OHdG + p53 mutasyonu) ile tespit eder, NOT kapısı ile BCL-2'yi tersler, dinamik eşik fonksiyonu ile geri dönülemez apoptozu başlatır. 4 aylık tarama döngüsü ile nüksü önler.DOI NUMARASI: 
 
 ---
 
@@ -80,13 +80,15 @@ Atıf örneği:
 
 - Zenodo APROS: 
 https://doi.org/10.5281/zenodo.19428077
-- Zenodo SYBEL-KRONOS: [10.5281/zenodo.19428077](https://doi.org/10.5281/zenodo.19428077)
-- Zenodo MEE-URT: [10.5281/zenodo.19428317](https://doi.org/10.5281/zenodo.19428317)
-- Zenodo Prometheus: [10.5281/zenodo.19218687](https://doi.org/10.5281/zenodo.19218687)
-- Zenodo TMÇNPROS: [10.5281/zenodo.19219751](https://doi.org/10.5281/zenodo.19219751)
+- Zenodo SYBEL-KRONOS: [10.5281/zenodo.19428077]()
+- Zenodo MEE-URT: [10.5281/zenodo.19428317]()
+- Zenodo Prometheus: [10.5281/zenodo.19218687](
+
+- Zenodo TMÇNPROS: [10.5281/zenodo.19219751](
+)
  
 NANO-APROS-V1.0:
-https://doi.org/10.5281/zenodo.19486683
+
 BlackRock, Vanguard, State Street veya bu fonların hissesine sahip olduğu hiçbir şirket, ayrıca yazılı izin almadan bu protokolleri ticari kullanım amacıyla uygulayamaz veya kullandıramaz.
 ---
 
